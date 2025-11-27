@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1764281907 source:c:\users\iu51i\documents\25friu\leaderboard\sistem de ranking\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<chrono>
+	<thread>
+	<windows.h>
+	<conio.h>
+	"leaderboard.hpp"
+
+1764281697 c:\users\iu51i\documents\25friu\leaderboard\sistem de ranking\leaderboard.hpp
+	<iostream>
+	<vector>
+	<string>
+	<unordered_map>
+	<set>
+	<map>
+	<algorithm>
+	<sstream>
+	"fenwick.hpp"
+
+1764275041 c:\users\iu51i\documents\25friu\leaderboard\sistem de ranking\fenwick.hpp
+	<vector>
+	<cassert>
+
